@@ -12,6 +12,6 @@
       "purpose": "maskable any"
     }
   ],
-  "display": "standalone",
-  "orientation": "portrait"
+  "display": "fullscreen",
+  "orientation": "any"
 }
