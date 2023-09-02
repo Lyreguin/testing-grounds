@@ -1,7 +1,7 @@
 {
   "name": "Normandie",
   "short_name": "Normandie",
-  "start_url": "/",
+  "start_url": "./index.html",
   "background_color": "#FFDCB5",
   "theme_color": "#1E003D",
   "icons": [
